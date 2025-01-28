@@ -68,7 +68,7 @@ Enlace de github del codigo: [Almami fruitsAPI repository](https://github.com/Al
 | Java 17 o superior      | 
 | Maven 3.8 o superior      | 
 | Postman para peticiones      | 
-| MySQL Worckbench       |
+| MySQL Workbench 8.0 o superior     |
 
 
 ## Instalación
